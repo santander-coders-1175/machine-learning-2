@@ -2,7 +2,7 @@
 
 ### About
 
-This project, developed by Mille Amorim and Juan Vieira, is about building a classifier model to deal with the task of predicting which subscribers to a music streaming platform will stop subscribing to the service (churn). 
+This project, developed by Juan Vieira and Mille Amorim, is about building a classifier model to deal with the task of predicting which subscribers to a music streaming platform will stop subscribing to the service (churn). 
 
 ### Goals
 
